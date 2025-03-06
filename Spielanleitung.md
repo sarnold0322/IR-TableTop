@@ -127,7 +127,3 @@ Die Netzwerküberwachung zeigt eine ungewöhnliche Menge an Anfragen von IP-Adre
 
 ## 📜 Lizenz  
 Dieses Spiel ist inspiriert von **[Defensomania](https://github.com/Karneades/Defensomania)** und steht unter der **MIT-Lizenz**.  
-
----
-
-Falls du noch Änderungen möchtest (z. B. Formatierung, weitere Szenarien), sag einfach Bescheid! 😊
